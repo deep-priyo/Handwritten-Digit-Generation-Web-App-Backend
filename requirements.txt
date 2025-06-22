@@ -1,7 +1,7 @@
-torch==2.5.1
+torch==2.6.0
 torchvision==0.21.0
 flask==2.3.3
 flask-cors==4.0.0
 Pillow==10.0.0
-numpy==1.24.3
+numpy==1.26.4
 gunicorn==21.2.0
